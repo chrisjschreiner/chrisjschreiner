@@ -4,8 +4,7 @@
 
 <p>Hello! My name is Chris Schreiner, and I'm a teacher and software developer based in beautiful Central Oregon. I have a master's degree in education and have been teaching Spanish for eight years. My love for languages and tech fuels my inspiration to learn and build incessantly things that live on the web.</p>
 
-<img src="C:\Users\chris\Desktop\dinogif.gif">
-![dino](https://github.com/chrisjschreiner/dinogif.gif)
+<img src="C:/Users/chris/Desktop/dinogif.gif">
 
 <!--
 **chrisjschreiner/chrisjschreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
