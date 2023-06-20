@@ -6,7 +6,7 @@
 
 <img src="C:/Users/chris/Desktop/dinogif.gif">
 
-![](dinogif.gif)
+![dino](Chris:/Users/chris/Deskstop/dinogif.gif)
 ![dinogif](https://github.com/chrisjschreiner/chrisjschreiner/assets/82328598/e12fd65e-3c0f-44a0-bf54-97a9f76946af)
 
 <!--
