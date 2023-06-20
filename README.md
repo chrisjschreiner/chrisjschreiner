@@ -4,6 +4,10 @@
 
 <p>Hello! My name is Chris Schreiner, and I'm a teacher and software developer based in beautiful Central Oregon. I have a master's degree in education and have been teaching Spanish for eight years. My love for languages and tech fuels my inspiration to learn and build incessantly things that live on the web.</p>
 
+<h3>Skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,redux,nodejs,express,mongodb,sass,styledcomponents,tailwind,git,github,postman,netlify,vscode&perline=18)](https://skillicons.dev)
+
 <!--
 **chrisjschreiner/chrisjschreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
