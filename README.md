@@ -6,6 +6,8 @@
 
 <img src="C:/Users/chris/Desktop/dinogif.gif">
 
+![](dinogif.gif)
+
 <!--
 **chrisjschreiner/chrisjschreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
