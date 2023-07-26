@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-<p>¡Hola! My name is Chris Schreiner, and I'm a teacher and software developer based in beautiful Central Oregon. I have a master's degree in education and have been teaching Spanish for eight years. My love for languages and tech fuels my inspiration to learn and build things that live on the interwebs.</p>
+<p>¡Hola! My name is Chris Schreiner, and I'm a teacher and software developer based in beautiful Central Oregon. I have a master's degree in education and have been teaching Spanish for eight years. My love for languages and tech fuels my inspiration to learn and build things that live on the internet.</p>
 
 <h3>My Skills</h3>
 
