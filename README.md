@@ -6,7 +6,7 @@
 
 <h3>My Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,redux,nodejs,express,mongodb,sass,styledcomponents,tailwind,git,github,postman,netlify,vscode&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,vite,nodejs,express,mongodb,sass,styledcomponents,tailwind,bootstrap,git,github,postman,figma,vscode&perline=18)](https://skillicons.dev)
 
 <!--
 **chrisjschreiner/chrisjschreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
